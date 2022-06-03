@@ -71,3 +71,4 @@ class Foundation:
         else:
             print("ERROR: Invalid move!")
             return False
+
