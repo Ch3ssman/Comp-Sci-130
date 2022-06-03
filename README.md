@@ -1,6 +1,6 @@
 # Comp-Sci-130
 
-## Basic Game Assignment
+### Basic Game Assignment
 
-### Basic implementation of a Klondike solitaire game.
+#### Basic implementation of a Klondike solitaire game.
 
