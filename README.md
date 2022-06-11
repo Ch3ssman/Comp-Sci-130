@@ -1,5 +1,8 @@
 # Comp-Sci-130
-Basic implementation of a Klondike solitaire game.
+
+### Basic Game Assignment
+
+#### Basic implementation of a Klondike solitaire game.
 
 This is a basic implementation of a Klondlike solitaire game. The goal is to play a basic solitaire game with two foundation piles and one stock pile.
 
